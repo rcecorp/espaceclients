@@ -1,5 +1,5 @@
 # espaceclients
 hans private repo for espaceclients.rcecorp.com  
-username test/test  
+username ******** (hidden)  
 do not share  
 not ready for production / do not remove htaccess please  
